@@ -1,4 +1,4 @@
-# Project 1: Matrix Multiplication Algorithms
+# Matrix Multiplication Algorithms
 
 This project implements three different matrix multiplication algorithms: classical multiplication, divide and conquer, and Strassen's algorithm. The program compares the performance of these algorithms by measuring their execution time for randomly generated matrices.
 
